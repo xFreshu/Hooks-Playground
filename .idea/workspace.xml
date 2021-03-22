@@ -7,8 +7,23 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="ProjectId" id="1phvX2reAkiZdoQvp36lRtz7HsO" />
   <component name="ProjectViewState">
@@ -20,16 +35,23 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="prettier.import.notification.dismissed" value="true" />
     <property name="prettierjs.PrettierConfiguration.Package" value="C:\Users\Łukasz Przybysz\Desktop\react-boilerplate\node_modules\prettier" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Łukasz Przybysz\Desktop\react-boilerplate\src\components\Root" />
+      <recent name="C:\Users\Łukasz Przybysz\Desktop\repo\Hooks-Playground\src\components\Organism\Navigation" />
+      <recent name="C:\Users\Łukasz Przybysz\Desktop\repo\Hooks-Playground\src\components\Views\HooksView" />
+      <recent name="C:\Users\Łukasz Przybysz\Desktop\repo\Hooks-Playground\src\components\Views\Advanced" />
+      <recent name="C:\Users\Łukasz Przybysz\Desktop\repo\Hooks-Playground\src\components\Views\Basic" />
+      <recent name="C:\Users\Łukasz Przybysz\Desktop\repo\Hooks-Playground\src" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -43,20 +65,12 @@
       <workItem from="1615648173830" duration="1082000" />
       <workItem from="1615652633608" duration="17000" />
       <workItem from="1615653606808" duration="338000" />
+      <workItem from="1616432915736" duration="1871000" />
+      <workItem from="1616439211282" duration="2714000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="707" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1615648936118">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="707" y="322" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/-1080.-465.1080.1880@0.0.1920.1040" timestamp="1615648936118" />
-    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1615652649860">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040/-1080.-465.1080.1880@0.0.1920.1040" timestamp="1615652649860" />
   </component>
 </project>
