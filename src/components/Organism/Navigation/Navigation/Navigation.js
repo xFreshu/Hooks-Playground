@@ -1,38 +1,6 @@
 import React from "react";
-import {
-  NavLink,
-  Link
-} from "react-router-dom";
-import styled from "styled-components";
+import { Wrapper, LogoContainer, Logo, LogoElement, StyledLink, NavElement } from "./Navigation.styled";
 import NavigationRoutes from "../NavigationRoutes/NavigationRoutes";
-
-const Wrapper = styled.ul`
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 10%;
-  height: 100vh;
-  background-color: wheat;
-`;
-
-const Logo = styled.ul`
-  display: flex;
-  text-align: center;
-  margin: 40px 0;
-  flex-direction: column;
-  font-weight: 700;
-  font-size: 30px;
-
-`;
-
-
-const LogoElement = styled.li`
-  text-decoration: none;
-
-  &:first-child {
-    letter-spacing: 8px;
-  }
-`;
 
 const Navigation = () => {
 
@@ -40,22 +8,43 @@ const Navigation = () => {
     <>
       <Wrapper>
         <li>
-          <Link to="/">
+          <LogoContainer to="/">
             <Logo>
               <LogoElement>HOOKS</LogoElement>
               <LogoElement>Playground</LogoElement>
             </Logo>
-          </Link>
+          </LogoContainer>
         </li>
-        <li>
-          <NavLink to="/UseState">State</NavLink>
-        </li>
-        <li>
-          <NavLink to="/UseContext">Context</NavLink>
-        </li>
-        <li>
-          <NavLink to="/UseEffect">Effect</NavLink>
-        </li>
+        <NavElement>
+          <StyledLink to="/UseState">UseState</StyledLink>
+        </NavElement>
+        <NavElement>
+          <StyledLink to="/UseContext">UseContext</StyledLink>
+        </NavElement>
+        <NavElement>
+          <StyledLink to="/UseEffect">UseEffect</StyledLink>
+        </NavElement>
+        <NavElement>
+          <StyledLink to="/UseCallback">UseCallback</StyledLink>
+        </NavElement>
+        <NavElement>
+          <StyledLink to="/UseDebugValue">UseDebugValue</StyledLink>
+        </NavElement>
+        <NavElement>
+          <StyledLink to="/UseImperativeHandle">UseImperativeHandle</StyledLink>
+        </NavElement>
+        <NavElement>
+          <StyledLink to="/UseLayoutEffect">UseLayoutEffect</StyledLink>
+        </NavElement>
+        <NavElement>
+          <StyledLink to="/UseMemo">UseMemo</StyledLink>
+        </NavElement>
+        <NavElement>
+          <StyledLink to="/UseReducer">UseReducer</StyledLink>
+        </NavElement>
+        <NavElement>
+          <StyledLink to="/UseRef">UseRef</StyledLink>
+        </NavElement>
       </Wrapper>
       <NavigationRoutes />
     </>

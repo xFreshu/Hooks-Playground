@@ -43,6 +43,7 @@
     <property name="prettier.import.notification.dismissed" value="true" />
     <property name="prettierjs.PrettierConfiguration.Package" value="C:\Users\Łukasz Przybysz\Desktop\react-boilerplate\node_modules\prettier" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 211.6432.11\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -66,7 +67,8 @@
       <workItem from="1615652633608" duration="17000" />
       <workItem from="1615653606808" duration="338000" />
       <workItem from="1616432915736" duration="1871000" />
-      <workItem from="1616439211282" duration="2714000" />
+      <workItem from="1616439211282" duration="2831000" />
+      <workItem from="1616524519214" duration="2186000" />
     </task>
     <servers />
   </component>
