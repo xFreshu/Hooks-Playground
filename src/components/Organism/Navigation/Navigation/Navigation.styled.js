@@ -1,5 +1,6 @@
 import styled from "styled-components";
 import { Link, NavLink } from "react-router-dom";
+import { theme } from "../../../../Assets/styles/Theme";
 
 export const activeClassName = "nav-item-active";
 
@@ -9,7 +10,7 @@ export const Wrapper = styled.ul`
   left: 0;
   width: 10%;
   height: 100vh;
-  background-color: #22223b;
+  background-color: ${theme.navigation.bgColor};
 `;
 
 export const Logo = styled.ul`
@@ -19,14 +20,13 @@ export const Logo = styled.ul`
   flex-direction: column;
   font-weight: 700;
   font-size: 30px;
-  color: white;
+  color: ${theme.navigation.fontColor};
   text-decoration: none;
 `;
 
 
 export const LogoElement = styled.li`
   text-decoration: none;
-  color: #f2e9e4;
 
   &:first-child {
     letter-spacing: 8px;
@@ -49,16 +49,16 @@ export const StyledLink = styled(NavLink).attrs({ activeClassName })`
   display: flex;
   justify-content: center;
   transition: .7s;
-  color: #f2e9e4;
+color: ${theme.navigation.fontColor};
 
   &.${activeClassName} {
     padding-left: 50px;
-    background-color: #4a4e69;
-    color: #f2e9e4;
+    background-color: ${theme.navigation.hoverColor};
+
   }
 
   :hover {
-    background-color: #4a4e69;
+    background-color: ${theme.navigation.hoverColor};
   }
 `;
 export const LogoContainer = styled(Link)`
