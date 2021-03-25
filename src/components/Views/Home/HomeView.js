@@ -9,7 +9,12 @@ position: absolute;
 const HomeView = () => {
   return (
     <Wrapper>
-      HOME
+      <code>
+        test
+        dasd  d
+        dd
+
+      </code>
     </Wrapper>
   );
 };

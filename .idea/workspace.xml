@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4b867135-485b-4a23-91fa-80eb6dbb153b" name="Default Changelist" comment="" />
+    <list default="true" id="4b867135-485b-4a23-91fa-80eb6dbb153b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/components/Views/HooksView/Basic/UseStateView/UseStateView.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Views/HooksView/Basic/UseStateView/UseStateView.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,6 +34,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -69,6 +72,7 @@
       <workItem from="1616432915736" duration="1871000" />
       <workItem from="1616439211282" duration="2831000" />
       <workItem from="1616524519214" duration="3102000" />
+      <workItem from="1616692248021" duration="5284000" />
     </task>
     <servers />
   </component>
