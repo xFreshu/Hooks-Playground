@@ -5,7 +5,7 @@ import { theme } from "../../../../Assets/styles/Theme";
 export const activeClassName = "nav-item-active";
 
 export const Wrapper = styled.ul`
-  position: absolute;
+  position: fixed;
   top: 0;
   left: 0;
   width: 10%;

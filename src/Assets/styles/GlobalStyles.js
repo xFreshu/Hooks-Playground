@@ -1,4 +1,5 @@
 import { createGlobalStyle } from 'styled-components';
+import { theme } from "./Theme";
 
 const GlobalStyles = createGlobalStyle`
   *, *::before, *::after{
@@ -8,6 +9,8 @@ const GlobalStyles = createGlobalStyle`
   }
   html{
     font-family: 'Oswald', sans-serif;
+    background-color: #E5E5E5;
+    color: ${theme.colors.primaryFont};
   }
 `;
 

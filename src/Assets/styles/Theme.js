@@ -2,7 +2,7 @@ export const theme = {
   colors: {
     primaryFont: "#22223b",
     secondaryFont: "#f2e9e4",
-    specialFont: "d62828"
+    specialFont: "#d62828"
   },
   navigation: {
     bgColor: "#22223b",
