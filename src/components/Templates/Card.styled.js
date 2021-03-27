@@ -12,5 +12,6 @@ export const Card = styled.div`
 `;
 export const CardName = styled.span`
   font-size: 30px;
-  margin: 10px 10px 40px 10px;
+  font-weight: 700;
+  margin: 10px;
 `

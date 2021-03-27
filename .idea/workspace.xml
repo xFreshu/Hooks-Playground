@@ -2,14 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4b867135-485b-4a23-91fa-80eb6dbb153b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/Templates/Card.styled.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Views/HooksView/Basic/UseStateView/UseStateView.styled.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Atoms/Button/Button.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Atoms/Button/Button.styled.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Templates/BlockCode.styled.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Assets/styles/GlobalStyles.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Assets/styles/GlobalStyles.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Assets/styles/Theme.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Assets/styles/Theme.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Organism/Navigation/Navigation/Navigation.styled.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Organism/Navigation/Navigation/Navigation.styled.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Views/HooksView/Basic/UseStateView/UseStateView.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Views/HooksView/Basic/UseStateView/UseStateView.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Views/HooksView/Basic/UseStateView/UseStateView.styled.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Views/HooksView/Basic/UseStateView/UseStateView.styled.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,16 +51,17 @@
     <property name="prettier.import.notification.dismissed" value="true" />
     <property name="prettierjs.PrettierConfiguration.Package" value="C:\Users\Łukasz Przybysz\Desktop\react-boilerplate\node_modules\prettier" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="IntelliLang.Configuration" />
     <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 211.6432.11\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Łukasz Przybysz\Desktop\repo\Hooks-Playground\src\components" />
       <recent name="C:\Users\Łukasz Przybysz\Desktop\repo\Hooks-Playground\src\Assets\styles" />
       <recent name="C:\Users\Łukasz Przybysz\Desktop\repo\Hooks-Playground\src" />
       <recent name="C:\Users\Łukasz Przybysz\Desktop\repo\Hooks-Playground\src\components\Organism\Navigation" />
       <recent name="C:\Users\Łukasz Przybysz\Desktop\repo\Hooks-Playground\src\components\Views\HooksView" />
-      <recent name="C:\Users\Łukasz Przybysz\Desktop\repo\Hooks-Playground\src\components\Views\Advanced" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -81,7 +80,7 @@
       <workItem from="1616524519214" duration="3102000" />
       <workItem from="1616692248021" duration="5284000" />
       <workItem from="1616783758676" duration="179000" />
-      <workItem from="1616850285753" duration="5644000" />
+      <workItem from="1616850285753" duration="10541000" />
     </task>
     <servers />
   </component>
