@@ -1,16 +1,15 @@
 import React from "react";
 import styled from "styled-components";
+import { CardName, Card, Wrapper, Header } from "../../../../Templates/Card.styled";
 
-const Wrapper = styled.div`
-position: absolute;
-  top: 50%;
-  left: 50%;
-`
 
 const UseEffectView = () => {
   return (
     <Wrapper>
-      UseEffectView
+      <Header>useEffect</Header>
+      <Card>
+        <CardName>Konstrukcja</CardName>
+      </Card>
     </Wrapper>
   );
 };

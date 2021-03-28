@@ -2,12 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4b867135-485b-4a23-91fa-80eb6dbb153b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/Atoms/Button/Button.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Atoms/Button/Button.styled.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Templates/BlockCode.styled.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Views/HooksView/Basic/UseStateView/UseStateView.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Views/HooksView/Basic/UseStateView/UseStateView.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Views/HooksView/Basic/UseStateView/UseStateView.styled.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Views/HooksView/Basic/UseStateView/UseStateView.styled.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Templates/Card.styled.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Templates/Card.styled.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Views/HooksView/Advanced/UseCallbackView/UseCallbacksView.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Views/HooksView/Advanced/UseCallbackView/UseCallbacksView.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Views/HooksView/Advanced/UseDebugValueView/UseDebugValueView.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Views/HooksView/Advanced/UseDebugValueView/UseDebugValueView.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Views/HooksView/Advanced/UseImperativeHandleView/UseImperativeHandleView.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Views/HooksView/Advanced/UseImperativeHandleView/UseImperativeHandleView.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Views/HooksView/Advanced/UseLayoutEffectView/UseLayoutEffectView.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Views/HooksView/Advanced/UseLayoutEffectView/UseLayoutEffectView.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Views/HooksView/Advanced/UseMemoView/UseMemoView.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Views/HooksView/Advanced/UseMemoView/UseMemoView.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Views/HooksView/Advanced/UseReducerView/UseReducerView.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Views/HooksView/Advanced/UseReducerView/UseReducerView.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Views/HooksView/Advanced/UseRefView/UseRefView.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Views/HooksView/Advanced/UseRefView/UseRefView.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Views/HooksView/Basic/UseContextView/UseContextView.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Views/HooksView/Basic/UseContextView/UseContextView.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Views/HooksView/Basic/UseEffectView/UseEffectView.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Views/HooksView/Basic/UseEffectView/UseEffectView.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,7 +85,8 @@
       <workItem from="1616524519214" duration="3102000" />
       <workItem from="1616692248021" duration="5284000" />
       <workItem from="1616783758676" duration="179000" />
-      <workItem from="1616850285753" duration="10541000" />
+      <workItem from="1616850285753" duration="10701000" />
+      <workItem from="1616925618685" duration="1164000" />
     </task>
     <servers />
   </component>

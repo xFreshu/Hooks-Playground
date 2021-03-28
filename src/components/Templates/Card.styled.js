@@ -15,3 +15,17 @@ export const CardName = styled.span`
   font-weight: 700;
   margin: 10px;
 `
+export const Wrapper = styled.div`
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+  left: 10%;
+  width: 90%;
+`;
+export const Header = styled.span`
+  font-size: 30px;
+  margin: 40px 0;
+  font-weight: 700;
+`;
